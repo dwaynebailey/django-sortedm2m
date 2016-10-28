@@ -11,6 +11,9 @@ matrix:
     - python: 3.5
       env:
       - TOX_ENV=py35-19
+    - python: 3.5
+      env:
+      - TOX_ENV=py35-110
 env:
    #- TOX_ENV=py26-15
    #- TOX_ENV=py26-16
